@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Matchs PSG",
+  "version": "1.0",
+  "description": "Affiche les matchs à venir, en cours et passés du PSG.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/psg.png"
+  }
+}
